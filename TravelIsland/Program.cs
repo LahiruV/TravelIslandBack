@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace ZPERX
+namespace TravelIsland
 {
     public class Program
     {

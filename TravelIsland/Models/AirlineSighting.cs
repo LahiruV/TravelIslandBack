@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ZPERX.Models
+namespace TravelIsland.Models
 {
     public class AirlineSighting
     {

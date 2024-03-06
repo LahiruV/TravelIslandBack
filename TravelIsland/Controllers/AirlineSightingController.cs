@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using ZPERX.Models;
-using ZPERX.Services.AirlineSightingService;
+using TravelIsland.Models;
+using TravelIsland.Services.AirlineSightingService;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace ZPERX.Controllers
+namespace TravelIsland.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

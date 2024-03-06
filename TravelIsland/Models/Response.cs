@@ -1,4 +1,4 @@
-﻿namespace ZPERX.Models
+﻿namespace TravelIsland.Models
 {
     public class Response
     {

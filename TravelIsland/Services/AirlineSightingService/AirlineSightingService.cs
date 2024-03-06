@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using ZPERX.Data;
-using ZPERX.Models;
+using TravelIsland.Data;
+using TravelIsland.Models;
 
-namespace ZPERX.Services.AirlineSightingService
+namespace TravelIsland.Services.AirlineSightingService
 {
     public class AirlineSightingService : IAirlineSightingService
     {

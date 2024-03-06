@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using ZPERX.Models;
+using TravelIsland.Models;
 
-namespace ZPERX.Services.AirlineSightingService
+namespace TravelIsland.Services.AirlineSightingService
 {
     public interface IAirlineSightingService
     {

@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ZPERX.Models;
+using TravelIsland.Models;
 
-namespace ZPERX.Data
+namespace TravelIsland.Data
 {
     public class DataContext : DbContext
     {
